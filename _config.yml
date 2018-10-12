@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Data is everything"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -146,7 +146,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "yogeshjadhav96@gmail.com"
 
 ################
 # Author Blurb #
@@ -156,7 +156,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: ""
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -165,9 +165,9 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/yogeshjadhav96"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/pgyogesh"
   - title: "github"
     url: "https://github.com/pgyogesh"
   - title: "rss"
