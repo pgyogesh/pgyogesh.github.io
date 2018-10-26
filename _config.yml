@@ -207,6 +207,7 @@ pages_list:
   #Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
+  Travel-Map: 'travelmap'
 
 # Exclusion list from the generated _site
 
