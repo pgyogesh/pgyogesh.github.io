@@ -178,7 +178,7 @@ social:
   - title: "instagram"
     url: "https://instagram.com/16mp_excursionist"
   - title: "whatsapp"
-    url: "http://api.whatsapp.com/send?phone=+917676777797"
+    url: "http://api.whatsapp.com/send?phone=917676777797"
   - title: "rss"
     url: "/feed.xml"
 
