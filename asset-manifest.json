@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dbafolio/static/css/main.52d7bb89.chunk.css",
-    "main.js": "/dbafolio/static/js/main.4c9770e7.chunk.js",
-    "main.js.map": "/dbafolio/static/js/main.4c9770e7.chunk.js.map",
+    "main.js": "/dbafolio/static/js/main.57f16c4f.chunk.js",
+    "main.js.map": "/dbafolio/static/js/main.57f16c4f.chunk.js.map",
     "runtime-main.js": "/dbafolio/static/js/runtime-main.ab6af784.js",
     "runtime-main.js.map": "/dbafolio/static/js/runtime-main.ab6af784.js.map",
     "static/js/2.69404070.chunk.js": "/dbafolio/static/js/2.69404070.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.e03e6efe.chunk.js": "/dbafolio/static/js/4.e03e6efe.chunk.js",
     "static/js/4.e03e6efe.chunk.js.map": "/dbafolio/static/js/4.e03e6efe.chunk.js.map",
     "index.html": "/dbafolio/index.html",
-    "precache-manifest.b48d30502d42459cd5c4cff49befadb9.js": "/dbafolio/precache-manifest.b48d30502d42459cd5c4cff49befadb9.js",
+    "precache-manifest.a9a55748a80e2a64fccc4752e31d4c2f.js": "/dbafolio/precache-manifest.a9a55748a80e2a64fccc4752e31d4c2f.js",
     "service-worker.js": "/dbafolio/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/dbafolio/static/css/3.00373544.chunk.css.map",
     "static/css/4.3e7d09e6.chunk.css.map": "/dbafolio/static/css/4.3e7d09e6.chunk.css.map",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.ab6af784.js",
     "static/js/2.69404070.chunk.js",
     "static/css/main.52d7bb89.chunk.css",
-    "static/js/main.4c9770e7.chunk.js"
+    "static/js/main.57f16c4f.chunk.js"
   ]
 }
