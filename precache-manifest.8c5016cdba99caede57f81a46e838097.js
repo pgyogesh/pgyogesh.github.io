@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d466105a19d832d2e20d47db1205752",
+    "revision": "1d773dbc7d94abf10865faa7002ac523",
     "url": "/dbafolio/index.html"
   },
   {
-    "revision": "c43acbfff72c1111b3c9",
+    "revision": "998bf81dbb56182d1179",
     "url": "/dbafolio/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "049be05212810886dd9d",
+    "revision": "785740d8fc14d18a1bc7",
     "url": "/dbafolio/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "e8a1d95b58808acefc90",
+    "revision": "35cc075d1d5263d7e93d",
     "url": "/dbafolio/static/css/main.52d7bb89.chunk.css"
   },
   {
-    "revision": "9ef686cd9f0c099e7e46",
-    "url": "/dbafolio/static/js/2.5882e8ec.chunk.js"
+    "revision": "eadd654ec3b8d7d17668",
+    "url": "/dbafolio/static/js/2.614abaed.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/dbafolio/static/js/2.5882e8ec.chunk.js.LICENSE.txt"
+    "url": "/dbafolio/static/js/2.614abaed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c43acbfff72c1111b3c9",
-    "url": "/dbafolio/static/js/3.03e2148c.chunk.js"
+    "revision": "998bf81dbb56182d1179",
+    "url": "/dbafolio/static/js/3.54e7a465.chunk.js"
   },
   {
-    "revision": "049be05212810886dd9d",
-    "url": "/dbafolio/static/js/4.2bf12201.chunk.js"
+    "revision": "785740d8fc14d18a1bc7",
+    "url": "/dbafolio/static/js/4.8481d96c.chunk.js"
   },
   {
-    "revision": "e8a1d95b58808acefc90",
-    "url": "/dbafolio/static/js/main.43e512b0.chunk.js"
+    "revision": "35cc075d1d5263d7e93d",
+    "url": "/dbafolio/static/js/main.02c05cdc.chunk.js"
   },
   {
-    "revision": "7cf962fac8279381e511",
-    "url": "/dbafolio/static/js/runtime-main.5b571ae9.js"
+    "revision": "099ca7d94ee6c11dd905",
+    "url": "/dbafolio/static/js/runtime-main.94c6e15f.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",

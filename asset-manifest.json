@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/dbafolio/static/css/main.52d7bb89.chunk.css",
-    "main.js": "/dbafolio/static/js/main.43e512b0.chunk.js",
-    "main.js.map": "/dbafolio/static/js/main.43e512b0.chunk.js.map",
-    "runtime-main.js": "/dbafolio/static/js/runtime-main.5b571ae9.js",
-    "runtime-main.js.map": "/dbafolio/static/js/runtime-main.5b571ae9.js.map",
-    "static/js/2.5882e8ec.chunk.js": "/dbafolio/static/js/2.5882e8ec.chunk.js",
-    "static/js/2.5882e8ec.chunk.js.map": "/dbafolio/static/js/2.5882e8ec.chunk.js.map",
+    "main.js": "/dbafolio/static/js/main.02c05cdc.chunk.js",
+    "main.js.map": "/dbafolio/static/js/main.02c05cdc.chunk.js.map",
+    "runtime-main.js": "/dbafolio/static/js/runtime-main.94c6e15f.js",
+    "runtime-main.js.map": "/dbafolio/static/js/runtime-main.94c6e15f.js.map",
+    "static/js/2.614abaed.chunk.js": "/dbafolio/static/js/2.614abaed.chunk.js",
+    "static/js/2.614abaed.chunk.js.map": "/dbafolio/static/js/2.614abaed.chunk.js.map",
     "static/css/3.00373544.chunk.css": "/dbafolio/static/css/3.00373544.chunk.css",
-    "static/js/3.03e2148c.chunk.js": "/dbafolio/static/js/3.03e2148c.chunk.js",
-    "static/js/3.03e2148c.chunk.js.map": "/dbafolio/static/js/3.03e2148c.chunk.js.map",
+    "static/js/3.54e7a465.chunk.js": "/dbafolio/static/js/3.54e7a465.chunk.js",
+    "static/js/3.54e7a465.chunk.js.map": "/dbafolio/static/js/3.54e7a465.chunk.js.map",
     "static/css/4.3e7d09e6.chunk.css": "/dbafolio/static/css/4.3e7d09e6.chunk.css",
-    "static/js/4.2bf12201.chunk.js": "/dbafolio/static/js/4.2bf12201.chunk.js",
-    "static/js/4.2bf12201.chunk.js.map": "/dbafolio/static/js/4.2bf12201.chunk.js.map",
+    "static/js/4.8481d96c.chunk.js": "/dbafolio/static/js/4.8481d96c.chunk.js",
+    "static/js/4.8481d96c.chunk.js.map": "/dbafolio/static/js/4.8481d96c.chunk.js.map",
     "index.html": "/dbafolio/index.html",
-    "precache-manifest.e0d3c3e4ff6e34a6d42f2d2ddbaea324.js": "/dbafolio/precache-manifest.e0d3c3e4ff6e34a6d42f2d2ddbaea324.js",
+    "precache-manifest.8c5016cdba99caede57f81a46e838097.js": "/dbafolio/precache-manifest.8c5016cdba99caede57f81a46e838097.js",
     "service-worker.js": "/dbafolio/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/dbafolio/static/css/3.00373544.chunk.css.map",
     "static/css/4.3e7d09e6.chunk.css.map": "/dbafolio/static/css/4.3e7d09e6.chunk.css.map",
     "static/css/main.52d7bb89.chunk.css.map": "/dbafolio/static/css/main.52d7bb89.chunk.css.map",
-    "static/js/2.5882e8ec.chunk.js.LICENSE.txt": "/dbafolio/static/js/2.5882e8ec.chunk.js.LICENSE.txt",
+    "static/js/2.614abaed.chunk.js.LICENSE.txt": "/dbafolio/static/js/2.614abaed.chunk.js.LICENSE.txt",
     "static/media/index.css": "/dbafolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/airbnbLogo.png": "/dbafolio/static/media/airbnbLogo.c59720d6.png",
     "static/media/codeInLogo.webp": "/dbafolio/static/media/codeInLogo.47a7a717.webp",
@@ -38,9 +38,9 @@
     "static/media/TalkCard.css": "/dbafolio/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b571ae9.js",
-    "static/js/2.5882e8ec.chunk.js",
+    "static/js/runtime-main.94c6e15f.js",
+    "static/js/2.614abaed.chunk.js",
     "static/css/main.52d7bb89.chunk.css",
-    "static/js/main.43e512b0.chunk.js"
+    "static/js/main.02c05cdc.chunk.js"
   ]
 }
