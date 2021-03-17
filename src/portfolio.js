@@ -11,11 +11,8 @@ const illustration = {
 const greeting = {
   username: "Yogesh Jadhav",
   title: "Hello, This is Yogesh",
-  subTitle: emoji(
-    "I'm passionate Database Administrator 🚀 who strives to gain professional experience. I’m open-source enthusiast. My passion is to learn new technologies and keep myself up to date in this rapidly changing world. I’m a quick learner. Even though I take my work seriously, I do have a good sense of humour. My interest ranges from reading books, listening to music to exploring new places and people."
-  ),
-  resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+  subTitle: emoji("I'm passionate Database Administrator 🚀 who strives to gain professional experience. I’m open-source enthusiast. My passion is to learn new technologies and keep myself up to date in this rapidly changing world. I’m a quick learner. Even though I take my work seriously, I do have a good sense of humour. My interest ranges from reading books, listening to music to exploring new places and people."),
+  resumeLink:"https://pgyogesh.github.io/online-cv",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -41,13 +38,9 @@ const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY DATABASE ADMINISTRATOR WHO WANTS TO EXPLORE OPEN-SOURCE DATA STACK",
   skills: [
-    emoji(
-      "⚡ Creating highly highly available, secure and high performance database systems"
-    ),
+    emoji("⚡ Creating highly highly available, secure and high performance database systems"),
     emoji("⚡ Developing bash and python scripts to automate and monitor the database systems"),
-    emoji(
-      "⚡ Integration of third party services such as Hadoop / AWS / Azure"
-    )
+    emoji("⚡ Integration of third party services such as Hadoop / AWS / Azure")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -116,6 +109,14 @@ const techStack = {
     },
     {
       Stack: "Python Programming Langauge",
+      progressPercentage: "70%"
+    },
+    {
+      Stack: "Shell Scripting",
+      progressPercentage: "60%"
+    },
+    {
+      Stack: "MarkLogic Database Administration",
       progressPercentage: "60%"
     }
   ],
@@ -230,21 +231,35 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "With Love for Managing databases and Developing cool stuff, I love to write and teach others what I have learnt.",
 
   blogs: [
     {
       url:
-        "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+        "https://pgyogesh.github.io/blog/greenplum/python/parallel-restore-using-python/",
+      title: "Greenplum Parallel Restore Using Python",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "Python program to parallel restore greenplum backup in dissimilar number of segment instances. This script has all recommended steps by Pivotal."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url:
+        "https://pgyogesh.github.io/blog/postgresql/pgauth/",
+      title: "It’s backend process that authenticates users in PostgreSQL… Not Postmaster Process…",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "I was confused on how authentication in PostgreSQL works. So, I did some research."
+    },
+    {
+      url:
+        "https://pgyogesh.github.io/blog/greenplum/python/GPOPB/",
+      title: "GPOPB: Greenplum Object Processing in Bulk",
+      description:
+        "Python utility to process Greenplum objects in bulk and in parallel."
+    },
+    {
+      url: "https://pgyogesh.github.io/blog/postgresql/python/parallel-analyze-postgres/",
+      title: "Running parallel analyze on PostgreSQL Database",
+      description:
+        "Python program to run analyze on multiple tables in parallel for PostgreSQL Database."
     }
   ],
   display: true // Set false to hide this section, defaults to true
