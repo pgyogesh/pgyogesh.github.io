@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/dbafolio/static/css/main.52d7bb89.chunk.css",
+    "main.js": "/dbafolio/static/js/main.4c9770e7.chunk.js",
+    "main.js.map": "/dbafolio/static/js/main.4c9770e7.chunk.js.map",
+    "runtime-main.js": "/dbafolio/static/js/runtime-main.ab6af784.js",
+    "runtime-main.js.map": "/dbafolio/static/js/runtime-main.ab6af784.js.map",
+    "static/js/2.69404070.chunk.js": "/dbafolio/static/js/2.69404070.chunk.js",
+    "static/js/2.69404070.chunk.js.map": "/dbafolio/static/js/2.69404070.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/dbafolio/static/css/3.00373544.chunk.css",
+    "static/js/3.7c9dd77f.chunk.js": "/dbafolio/static/js/3.7c9dd77f.chunk.js",
+    "static/js/3.7c9dd77f.chunk.js.map": "/dbafolio/static/js/3.7c9dd77f.chunk.js.map",
+    "static/css/4.3e7d09e6.chunk.css": "/dbafolio/static/css/4.3e7d09e6.chunk.css",
+    "static/js/4.e03e6efe.chunk.js": "/dbafolio/static/js/4.e03e6efe.chunk.js",
+    "static/js/4.e03e6efe.chunk.js.map": "/dbafolio/static/js/4.e03e6efe.chunk.js.map",
+    "index.html": "/dbafolio/index.html",
+    "precache-manifest.b48d30502d42459cd5c4cff49befadb9.js": "/dbafolio/precache-manifest.b48d30502d42459cd5c4cff49befadb9.js",
+    "service-worker.js": "/dbafolio/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/dbafolio/static/css/3.00373544.chunk.css.map",
+    "static/css/4.3e7d09e6.chunk.css.map": "/dbafolio/static/css/4.3e7d09e6.chunk.css.map",
+    "static/css/main.52d7bb89.chunk.css.map": "/dbafolio/static/css/main.52d7bb89.chunk.css.map",
+    "static/js/2.69404070.chunk.js.LICENSE.txt": "/dbafolio/static/js/2.69404070.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dbafolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/broadridge-logo.png": "/dbafolio/static/media/broadridge-logo.a3f80963.png",
+    "static/media/contactMailDark.svg": "/dbafolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/dbafolio/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/dbafolio/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/dbafolio/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/rcu-logo.jpg": "/dbafolio/static/media/rcu-logo.600f5f30.jpg",
+    "static/media/saayaHealthLogo.webp": "/dbafolio/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/dbafolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/dbafolio/static/media/talksCardBack.13780cdd.svg",
+    "static/media/wipro-logo.jpg": "/dbafolio/static/media/wipro-logo.1a782126.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab6af784.js",
+    "static/js/2.69404070.chunk.js",
+    "static/css/main.52d7bb89.chunk.css",
+    "static/js/main.4c9770e7.chunk.js"
+  ]
+}
