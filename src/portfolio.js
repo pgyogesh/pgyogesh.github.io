@@ -12,7 +12,7 @@ const greeting = {
   username: "Yogesh Jadhav",
   title: "Hello, This is Yogesh",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "I'm passionate Database Administrator 🚀 who strives to gain professional experience. I’m open-source enthusiast. My passion is to learn new technologies and keep myself up to date in this rapidly changing world. I’m a quick learner. Even though I take my work seriously, I do have a good sense of humour. My interest ranges from reading books, listening to music to exploring new places and people."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
@@ -22,13 +22,15 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  github: "https://github.com/pgyogesh",
+  linkedin: "https://www.linkedin.com/in/pgyogesh/",
+  gmail: "pgyogesh@outlook.com",
+  //gitlab: "https://gitlab.com/saadpasta",
+  //facebook: "https://www.facebook.com/saad.pasta7",
+  //medium: "https://medium.com/@saadpasta",
+  stackoverflow: "https://stackoverflow.com/users/4851021/pgyogesh",
+  twitter: "https://twitter.com/pgyogesh_",
+  instagram: "https://www.instagram.com/wanderercouple_yk/",
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
 };

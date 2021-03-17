@@ -1,6 +1,6 @@
 {
   "homepage": "https://pgyogesh.github.io/dbafolio",
-  "name": "https://pgyogesh.github.io/dbafolio",
+  "name": "dbafolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,8 +22,8 @@
     "deploy": "gh-pages -b master -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "format": "prettier --write \"./**/*.{js,css,json}\""
-    "run":"npm run deploy"
+    "format": "prettier --write \"./**/*.{js,css,json}\"",
+    "run": "npm run deploy"
   },
   "eslintConfig": {
     "extends": "react-app"
