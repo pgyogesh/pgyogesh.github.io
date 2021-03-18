@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f9aef96a733cf43d934ace3a8a1db4a",
+    "revision": "cbd091a6e85abf53ae2e457287751ca7",
     "url": "/dbafolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dbafolio/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "2931afea6c6306cc9373",
+    "revision": "03c869ec74248cf8f7fd",
     "url": "/dbafolio/static/css/main.6a8762ca.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dbafolio/static/js/4.e03e6efe.chunk.js"
   },
   {
-    "revision": "2931afea6c6306cc9373",
-    "url": "/dbafolio/static/js/main.4c592274.chunk.js"
+    "revision": "03c869ec74248cf8f7fd",
+    "url": "/dbafolio/static/js/main.d51000be.chunk.js"
   },
   {
     "revision": "2dc4eb6572f3231e7797",
