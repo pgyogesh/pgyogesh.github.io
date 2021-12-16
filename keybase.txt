@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/yogesh_yb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pgyogesh.github.io
+  * I am yogesh_yb (https://keybase.io/yogesh_yb) on keybase.
+  * I have a public key ASD_5c5kvl7_UNUCK_QJ-fRpGMcl9IxYcz_0yY_rmEI6Cgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ffe5ce64be5eff50d5022bf409f9f46918c725f48c58733ff4c98feb98423a0a0a",
+      "host": "keybase.io",
+      "kid": "0120ffe5ce64be5eff50d5022bf409f9f46918c725f48c58733ff4c98feb98423a0a0a",
+      "uid": "b8b4da4e8147b0cd1c0c720994bd1219",
+      "username": "yogesh_yb"
+    },
+    "merkle_root": {
+      "ctime": 1639639035,
+      "hash": "7848d4bd307a4170648c6f2efb65f9d52eaf9c0b2c1c7f3f3806ada64837206d1b72bc9abfb99bd81b76c6324812d1bbcae7b600138c0740cf6c8a5e03676a01",
+      "hash_meta": "7475147be7739229ce80790d9a3fed49f68963cfab5120f016986ecb255e10db",
+      "seqno": 21444808
+    },
+    "service": {
+      "entropy": "a5IK3bNlkSH7mDXrIfKsW3Xv",
+      "hostname": "pgyogesh.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1639639095,
+  "expire_in": 504576000,
+  "prev": "298c6014bc0162ea77c056a092131213a2d966c3a8ee9c2541e9e902702ff6c7",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/+XOZL5e/1DVAiv0Cfn0aRjHJfSMWHM/9MmP65hCOgoKp3BheWxvYWTESpcCCMQgKYxgFLwBYup3wFagkhMSE6LZZsOo7pwlQenpAnAv9sfEIB212r0klfU22FuJLm2czAvFTfDHCVOoBg2EFmeWtpNTAgHCo3NpZ8RAIloeUgvonfAqnjRnzPkHG/6OdNTl18ufmDXWFkWMp6XaNyEgpgK2f1Yj3Baoe6pxWnfS7vtnSXwJFcIu1ybUAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMM5w3rFeU/CHk4E9xPNtUpKDcRWQP/YKv6KdZw9voVVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yogesh_yb
+
+==================================================================
